@@ -1,5 +1,5 @@
 # React Native Calculator  
-**Calc by Rushikesh**
+**Om's Calculator**
 
 
 
